@@ -1,0 +1,9 @@
+# 忽略所有以 . 开头的文件，除了 .gitignore 和 .gitattributes
+.*
+!.gitignore
+!.gitattributes
+
+*.pyc
+__pycache__/
+media/
+fonts/
