@@ -25,5 +25,3 @@ pip install librosa
 manim -pqm .AnimationProjects\danceType\tutting.py Tutting
 ```
 
-![tutting](https://github.com/GoGoJvan/Dancer/tree/master/Tutting.mp4)
-
